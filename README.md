@@ -1,2 +1,4 @@
 # hello-world
-Creating new repo for June 28 SRA assignment
+Hello SRA,
+
+My name is Bishop, glad to meet you!
